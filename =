@@ -1,0 +1,6 @@
+Requirement already satisfied (use --upgrade to upgrade): pyzmq in /Users/luke/.virtualenvs/np_chunking/lib/python2.7/site-packages
+Downloading/unpacking 2.1.11
+  Could not find any downloads that satisfy the requirement 2.1.11
+Cleaning up...
+No distributions at all found for 2.1.11
+Storing debug log for failure in /Users/luke/.pip/pip.log
